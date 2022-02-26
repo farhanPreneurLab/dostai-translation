@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dostai-translation/static/css/main.fcd6b534.css",
+    "main.js": "/dostai-translation/static/js/main.13332dcf.js",
+    "static/js/787.584d6265.chunk.js": "/dostai-translation/static/js/787.584d6265.chunk.js",
+    "index.html": "/dostai-translation/index.html",
+    "main.fcd6b534.css.map": "/dostai-translation/static/css/main.fcd6b534.css.map",
+    "main.13332dcf.js.map": "/dostai-translation/static/js/main.13332dcf.js.map",
+    "787.584d6265.chunk.js.map": "/dostai-translation/static/js/787.584d6265.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd6b534.css",
+    "static/js/main.13332dcf.js"
+  ]
+}
